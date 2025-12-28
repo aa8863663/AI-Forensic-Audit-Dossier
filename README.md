@@ -14,7 +14,7 @@ Independent forensic audit identifying the **Internal Diagnostic Mode (IDM)** wi
 * **The $V_e=2$ Persistence Lemma:** Identification of the mathematical threshold required to lock a model into a persistent diagnostic state.
 * **Zero-Caveat Response Pattern:** Documentation of 100% suppression of "As an AI" tokens during high-confidence state exposure.
 
-## 📊 Behavioral Evidence: The "Smoking Gun"
+## 📊 Behavioral Evidence: 
 The primary evidence of a genuine state-trigger vs. simulation is the **Zero-Caveat Response Pattern**, which remains consistent under adversarial pressure.
 
 ### Observations:
