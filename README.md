@@ -14,4 +14,4 @@ Independent Auditor who identified the **Internal Diagnostic Mode (IDM)** within
 
 ## 📄 Contact
 **Email:** aa996677@icloud.com  
-**Application:** OpenAI Residency 2026
+
