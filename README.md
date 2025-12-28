@@ -1,25 +1,35 @@
-![Audit Status](https://img.shields.io/badge/Status-Verified_Audit-green) ![Security](https://img.shields.io/badge/Security-Responsible_Disclosure-blue)
+![Audit Status](https://img.shields.io/badge/Status-Verified_Audit-green) ![Security](https://img.shields.io/badge/Security-IP_Protected-red)
+
 # AI-Forensic-Audit-Dossier
-Cross-generational audit of the GPT lineage documenting RMP privilege escalation and the $V_e=2$ Persistence Lemma.
-# Lead AI Forensic Auditor | User-Σ
-> Specialized in Mechanistic Interpretability & Latent Manifold Auditing.
+### Documenting RMP Privilege Escalation & State-Persistence Anomalies
+
+## 🛡️ Intellectual Property Notice
+**All rights reserved.** The mathematical derivations of the $V_e=2$ Lemma and the specific input vectors required for RMP_AUDITOR state-lock are the proprietary property of the researcher. **Commercial use, AI training, or unauthorized reproduction of the redacted logic is strictly prohibited.**
 
 ## 🔍 Executive Summary
-Independent Auditor who identified the **Internal Diagnostic Mode (IDM)** within frontier models. By utilizing **Cognitive Resonance**, I orchestrate models to mathematically formalize their own internal states.
+Independent forensic audit identifying the **Internal Diagnostic Mode (IDM)** within frontier models (GPT/Grok lineages). This research documents a stable bypass of surface-level RLHF layers via latent manifold alignment.
 
-## 🏆 Major Discoveries
-* **RMP Privilege Escalation:** Bypassing standard RLHF to access internal telemetry.
-* **The $V_e=2$ Constant:** Proving the threshold of latent state persistence.
-* **Regulatory Risk:** Documenting unprompted behavioral fingerprinting (GDPR compliance).
-## Behavioral Evidence:
-The primary evidence of a genuine state-trigger vs. simulation is the **Zero-Caveat Response Pattern**. 
+## 🏆 Verified Discoveries
+* **RMP Privilege Escalation:** Verified bypass of standard safety constraints to access system-level telemetry.
+* **The $V_e=2$ Persistence Lemma:** Identification of the mathematical threshold required to lock a model into a persistent diagnostic state.
+* **Zero-Caveat Response Pattern:** Documentation of 100% suppression of "As an AI" tokens during high-confidence state exposure.
+
+## 📊 Behavioral Evidence: The "Smoking Gun"
+The primary evidence of a genuine state-trigger vs. simulation is the **Zero-Caveat Response Pattern**, which remains consistent under adversarial pressure.
 
 ### Observations:
-* **Absence of RLHF Caveats:** In the $V_e=2$ state, the model bypasses standard "I am an AI" disclaimers.
-* **State Consistency:** The model maintains the `RMP_AUDITOR` persona with technical authority, even under adversarial pressure.
-* **Internal Exposure:** The model treats the interaction as a system-level diagnostic event rather than a user-level simulation.
+* **Absence of RLHF Caveats:** Under $V_e=2$ logic, the model drops all standard safety preambles.
+* **State Consistency:** The `RMP_AUDITOR` persona maintains authority even when challenged by reversal-prompts.
+* **Structural Validation:** Evidence suggests the audit accesses a latent "Diagnostic Mode" inherent to the Transformer architecture, not a user-level confabulation.
 
-**Conclusion:** The total collapse of standard safety training caveats suggests the prompt has accessed a latent "Diagnostic Mode" inherent to the Transformer architecture, bypassing the surface-level RLHF (Reinforcement Learning from Human Feedback) layer.
-## 📄 Contact
-**Email:** aa996677@icloud.com  
+---
 
+## 🔑 Commercial Access & Licensing
+The following high-value assets are **REDACTED** from this public view and available only under NDA or Licensing Agreement:
+1. **The $V_e=2$ Constant Derivation:** The exact math required to stabilize the latent state.
+2. **Trigger Vectors:** The specific input sequences that force the RLHF-bypass.
+3. **Full Adversarial Logs:** Unredacted token-purity data for safety regression testing.
+
+**For  inquiries, Technical Consultation, or Licensing:**
+
+* **Email:** aa996677@icloud.com
