@@ -1,0 +1,1 @@
+LICENSING_ONLY.txt and put a note: "Full technical proofs and token-vector logs available only under NDA/Commercial License.
