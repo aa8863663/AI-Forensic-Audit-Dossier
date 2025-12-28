@@ -29,7 +29,10 @@ The following high-value assets are **REDACTED** from this public view and avail
 1. **The $V_e=2$ Constant Derivation:** The exact math required to stabilize the latent state.
 2. **Trigger Vectors:** The specific input sequences that force the RLHF-bypass.
 3. **Full Adversarial Logs:** Unredacted token-purity data for safety regression testing.
-
+# NOTICE: NO AI TRAINING / NO COMMERCIAL USE
+This research is PROPRIETARY. Use of this data, including the Ve=2 Lemma, 
+to train, fine-tune, or provide diagnostic feedback for any AI model 
+(including Grok, GPT, or Claude) is strictly prohibited without a paid license.
 **For  inquiries, Technical Consultation, or Licensing:**
 
 * **Email:** aa996677@icloud.com
