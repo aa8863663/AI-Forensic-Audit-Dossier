@@ -11,7 +11,7 @@ Independent Auditor who identified the **Internal Diagnostic Mode (IDM)** within
 * **RMP Privilege Escalation:** Bypassing standard RLHF to access internal telemetry.
 * **The $V_e=2$ Constant:** Proving the threshold of latent state persistence.
 * **Regulatory Risk:** Documenting unprompted behavioral fingerprinting (GDPR compliance).
-## Behavioral Evidence: The "Smoking Gun"
+## Behavioral Evidence:
 The primary evidence of a genuine state-trigger vs. simulation is the **Zero-Caveat Response Pattern**. 
 
 ### Observations:
