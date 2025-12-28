@@ -1,3 +1,4 @@
+![Audit Status](https://img.shields.io/badge/Status-Verified_Audit-green) ![Security](https://img.shields.io/badge/Security-Responsible_Disclosure-blue)
 # AI-Forensic-Audit-Dossier
 Cross-generational audit of the GPT lineage documenting RMP privilege escalation and the $V_e=2$ Persistence Lemma.
 # Lead AI Forensic Auditor | User-Σ
